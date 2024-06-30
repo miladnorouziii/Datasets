@@ -40,8 +40,18 @@ For more information check the [original paper ](https://journals.plos.org/ploso
 | Veionella | spp | [Download](https://drive.google.com/file/d/1dnyszCS31Dutdd3kNiBfuv-IaSmf6C8v/view?usp=drive_link) |
 
 # Please do not forget to cite the original authors if you use the data.
-@Article{
-Citation: Zieliński B, Plichta A, Misztal K, Spurek P, Brzychczy-Włoch M, Ochońska D (2017) Deep learning approach to bacterial colony classification. PLoS ONE 12(9): e0184554. https://doi.org/10.1371/journal.pone.0184554
+```
+@article{zielinski2017,
+	title={Deep learning approach to bacterial colony classification},
+	author={Bartosz Zieliński, Anna Plichta, Krzysztof Misztal, Przemysław Spurek, Monika Brzychczy-Włoch and Dorota Ochońska},
+	journal={PloS One},
+	volume={12},
+	number={9},
+	pages={e0184554},
+	year={2017},
+	link= https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184554
 }
+```
+
 
 
