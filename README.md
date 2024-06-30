@@ -49,7 +49,7 @@ For more information check the [original paper ](https://journals.plos.org/ploso
 	number={9},
 	pages={e0184554},
 	year={2017},
-	link= https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184554
+	link= {https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184554)
 }
 ```
 
