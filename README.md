@@ -1,4 +1,4 @@
-# Dibas
+# Dibas dataset
 The Digital Images of Bacteria Species dataset (DIBaS) is a dataset of 33 bacterial species with around 20 images for each species.
 
 For more information check the [original paper ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184554). Also note that *I do not own the rights to this dataset.*
@@ -38,5 +38,10 @@ For more information check the [original paper ](https://journals.plos.org/ploso
 | Staphylococcus | saprophiticus | [Download](https://drive.google.com/file/d/1FQTMTRGqiU428LVj0BHSEDM-1Mbfwk7D/view?usp=drive_link) |
 | Streptococcus | agalactiae | [Download](https://drive.google.com/file/d/1bAzq0AjAiyrdddaPVuOyA2oYnfsmLmF7/view?usp=drive_link) |
 | Veionella | spp | [Download](https://drive.google.com/file/d/1dnyszCS31Dutdd3kNiBfuv-IaSmf6C8v/view?usp=drive_link) |
+
+# Please do not forget to cite the original authors if you use the data.
+@Article{
+Citation: Zieliński B, Plichta A, Misztal K, Spurek P, Brzychczy-Włoch M, Ochońska D (2017) Deep learning approach to bacterial colony classification. PLoS ONE 12(9): e0184554. https://doi.org/10.1371/journal.pone.0184554
+}
 
 
