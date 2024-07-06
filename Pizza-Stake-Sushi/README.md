@@ -5,7 +5,7 @@ Food101 is a popular computer vision benchmark as it contains 1000 images of 101
 
 For more information check the [official website ](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/).Also note that *I do not own the rights to this dataset.*
 
-With thanks to [mrdbourke ](https://github.com/mrdbourke) for this dataset.
+Thanks to [mrdbourke ](https://github.com/mrdbourke) for this dataset.
 
 
 
